@@ -40,6 +40,8 @@ exports/*.log
 exports/logs/
 *.log
 logs/
+# Allow tracking of sales_data.db
+!sales_data.db
 *.db
 *.sqlite3
 
