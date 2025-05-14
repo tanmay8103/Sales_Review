@@ -113,18 +113,5 @@ The application provides various API endpoints for data management. Refer to the
 - Streamlit (v1.32.0)
 - HTTPX (v0.24.1)
 
-## Contributing
 
-1. Fork the repository
-2. Create a feature branch
-3. Commit your changes
-4. Push to the branch
-5. Create a Pull Request
 
-## License
-
-[Add your license information here]
-
-## Support
-
-[Add support information here] 
